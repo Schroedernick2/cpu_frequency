@@ -1,0 +1,12 @@
+PART_1
+	-Manually change CPU frequency
+	-Dynamic CPU Power = CV^2f
+		-C = Capacitance
+		-V = Voltage
+		-f = frequency
+	-DVFS
+		-Dynamic Voltage and Frequency Scaling
+
+PART_2
+	-Write and run CPU frequency governor
+
